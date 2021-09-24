@@ -9,7 +9,7 @@ include "../conexion.php"
 <head>
 	<meta charset="UTF-8">
 	<?php include "includes/scripts.php"; ?>
-	<title>Lista de Cliente</title>
+	<title>Lista de Cliente Sistema</title>
 </head>
 <body>
 	<?php include "includes/header.php"; ?> 
